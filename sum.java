@@ -6,7 +6,7 @@ public class sum{
         int a = sc.nextInt();
         int b =sc.nextInt();
         int sum = a+b;
-        System.out.println("the Sum of two numbers is : "+sum);
+        System.out.println("The Sum of 2 numbers is : "+sum);
         sc.close();
     }
 }
